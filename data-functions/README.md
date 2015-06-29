@@ -17,3 +17,7 @@ Data function that inputs a set of polygons and a set of points, and outputs whi
 #### Transform CRS for Imported Shapefile by PROJ.4 String.sfd
 
   Data function that converts an imported shapefile from one coordinate reference system to another, using PROJ.4 strings to specify the reference systems. Requires the R packages `sp`, `rgdal`, and `wkb`. PROJ.4 strings can be looked up at http://spatialreference.org/. 
+
+
+Copyright (c) 2015, TIBCO Software Inc. All rights reserved.<br/>
+[TIBCO Samples Internal End User License](http://www.tibco.com/multimedia/tibco-samples-eula.pdf)
